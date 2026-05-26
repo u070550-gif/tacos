@@ -1,0 +1,6 @@
+{
+  "name": "Taqueria Del Buen Sabor",
+  "description": "Aplicación de gestión y pedidos para Tacos el Chillón con tres niveles de acceso (Admin, Cuenta Principal y Usuario), control de inventario, cancelación con PIN e historial de ventas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
